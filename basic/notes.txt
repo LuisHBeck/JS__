@@ -1,0 +1,24 @@
+GENERAL NOTES 
+
+vars - 
+    var - global scope, possible to redeclare 
+
+    let - block scope, impossible to redeclare (can change de value)
+
+    const - fixed value
+
+
+primitive data - 
+    string - 'luis' ('',"",``);
+    number - 19 / 19.5;
+    undefined - let name;
+    null = let test = null; 
+    bool = true / false;
+
+
+window "alerts" - 
+    alert - alert window with text
+
+    confir - user select "ok" or "cancel" - return a bool value
+
+    prompt - user input some text 
